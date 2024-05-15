@@ -1,2 +1,2 @@
-def login_test_positive():
-    assert 1 == 1
+def login_test_negative():
+    assert 1 == 3
